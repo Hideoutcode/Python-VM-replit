@@ -1,0 +1,1 @@
+--Open file function works, admin screen added, cleaned up operations (destroy window after use), added working shell with commands--

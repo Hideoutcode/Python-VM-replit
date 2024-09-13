@@ -2,7 +2,8 @@
 
 ## Supported Versions
 
-Some versions not supported and outdated, please feel free to build on them! My ability is limited! (Dont forget to credit I work hard)
+Some versions not supported and outdated, please feel free to build on them! My ability is limited!
+(Dont forget to credit I work hard)
 
 | Version | Supported          |
 | ------- | ------------------ |

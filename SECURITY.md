@@ -13,8 +13,9 @@ Some versions not supported and outdated, please feel free to build on them! My 
 | 3.0.x   | :x:                |
 | 4.0x    | :x:                |
 | 5.0x    | :x:                |
-| 6.0x    | :white_check_mark: |
+| 6.0x    | :x:                |
 | 7.0x    | :white_check_mark: |
+| 8.0x    | :white_check_mark: |
 
 ## Reporting a Vulnerability
 

@@ -8,14 +8,6 @@ def notepad():
     placeholder = "Notepad"
 
 
-
-
-
-
-
-
-
-
 # calculator
 
 def addition():

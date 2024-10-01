@@ -72,7 +72,7 @@ def chatbot():
     }
       
     
-    }
+    
 
     for keyword, response in responses.items():
       if keyword in user_input:
@@ -130,6 +130,3 @@ def chatbot():
   root.mainloop()
 
 chatbot()
-
-
-# Made by Zach H. 2024

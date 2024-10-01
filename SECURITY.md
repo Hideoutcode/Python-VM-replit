@@ -16,6 +16,7 @@ Some versions not supported and outdated, please feel free to build on them! My 
 | 6.0x    | :x:                |
 | 7.0x    | :white_check_mark: |
 | 8.0x    | :white_check_mark: |
+| 9.0x    | :white_check_mark: |
 
 ## Reporting a Vulnerability
 

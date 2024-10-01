@@ -4,7 +4,7 @@ PRODUCTION PAUSED
 
 --Welcome to a tkinter Python Virtual machine project--
 
----making a virtual machine using advanced variable scope and tkinter, not completed currently but it is open source, you can see our versions and imporvements through the directories. Feel free to branch or modify---
+---Producing a python Operating system used on microcomputers such as a raspberry Pi, features include: Notepad, File sytem, Web browser (custom), Shell with commands, User account system, Kernal and Shell, Subprocess system---
 
 -open source-
 
